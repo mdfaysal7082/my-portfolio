@@ -10,5 +10,5 @@ Bootstrap
 Nothing else
 
 ## Website link
-https://github.com/mdfaysal7082/my-portfolio.git
+https://mdfaysal7082.github.io/my-portfolio/
 
